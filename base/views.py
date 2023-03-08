@@ -9,4 +9,4 @@ def home(request):
 
 
 def rooms(request):
-    return render(request, 'rooms.html')
+    return render(request, 'room.html')
