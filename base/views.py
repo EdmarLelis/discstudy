@@ -8,5 +8,5 @@ def home(request):
     return render(request, 'home.html')
 
 
-def sobre(request):
-    return render(request, 'sobre.html')
+def rooms(request):
+    return render(request, 'rooms.html')
